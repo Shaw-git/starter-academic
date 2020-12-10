@@ -67,6 +67,14 @@ user_groups:
 - Visitors
 ---
 
-Xiao Li is currently a research assistant at Sun yat-sen university. His research interests include computer vision, eye-tracking, head pose estimation and 3D vision. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm currently a research assistant at Sun yat-sen university. My research interests include computer vision, eye-tracking, head pose estimation and 3D vision. 
 
-李骁当前是中山大学的科研助理。他的研究兴趣包括计算机视觉、眼动跟踪、头部姿态估计以及3D视觉。
+Supervised by Prof. Dong Zhang, I got my bachelor degree and master degree at Sun Yat-Sen University in 2018 and 2020 respectively. I interned at SMIIP Lab in Duke Kunshan University during the 2019 and 2020 where I worked for Prof. Ming Li.
+
+Recenly, I graduated from Sun Yat-sen University and selected as Outstanding Graduate for the year 2020.
+
+我当前是中山大学的科研助理。我的研究兴趣包括计算机视觉、眼动跟踪、头部姿态估计以及3D视觉。
+
+我分别于2018年和2020在中山大学获得学士学位和硕士学位。2019年和2020年期间，我曾在昆山杜克大学SMIIP实验室进行实习并为李明教授工作。
+
+最近，我从中山大学毕业并被选为2020年度优秀毕业生。
