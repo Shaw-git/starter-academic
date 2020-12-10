@@ -25,11 +25,11 @@ interests:
 education:
   courses:
   - course: Master in Electronics and Communication Engineering
-    institution: Massachusetts Institute of Technology
-    year: 2009
+    institution: Sun Yat-sen University
+    year: 2020
   - course: Bachelor in Communication Engineering
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    institution: Sun Yat-sen University
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
