@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Xiao Li
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Sun Yat-sen University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
