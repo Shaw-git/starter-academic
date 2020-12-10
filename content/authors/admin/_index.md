@@ -14,12 +14,13 @@ organizations:
   url: "http://www.sysu.edu.cn/en/index.htm"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include computer vision, eye-tracking, 3D vision and programmable matter.
 
 interests:
+- Computer Vision
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Eye-Tracking
+- 3D Vision
 
 education:
   courses:
