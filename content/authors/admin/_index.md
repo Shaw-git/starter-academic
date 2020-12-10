@@ -11,7 +11,7 @@ role: Research Assistant
 # Organizations/Affiliations
 organizations:
 - name: Sun Yat-sen University
-  url: ""
+  url: "http://www.sysu.edu.cn/en/index.htm"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
