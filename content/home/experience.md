@@ -39,10 +39,11 @@ date_format = "Jan 2006"
   location = "China"
   date_start = "2017-07"
   date_end = "2017-09"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """
   Responsibilities include:
   
   * Designing software and test equipment for textile defects detection
   * Deploying deep learning model to Nvidia Jetson Tx2 for real-time detection
+  """
 
 +++
