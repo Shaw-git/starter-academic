@@ -17,14 +17,14 @@ subtitle = ""
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Programming"
+  description = "Python, C++, Matlab"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Data Science"
+  description = "Pytorch, Numpy, OpenCV, Open3D, Matplotlib"  
   
 [[feature]]
   icon = "camera-retro"
