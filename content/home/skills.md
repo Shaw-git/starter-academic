@@ -27,7 +27,7 @@ subtitle = ""
   description = "Pytorch, Numpy, OpenCV, Open3D, Matplotlib"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "microchip"
   icon_pack = "fas"
   name = "Photography"
   description = "10%"
