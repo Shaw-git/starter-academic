@@ -21,9 +21,9 @@ date_format = "Jan 2006"
   title = "Intern"
   company = "Duke Kunshan University"
   company_url = "https://dukekunshan.edu.cn/"
-  location = "Kunshan"
-  date_start = "2019-10-1"
-  date_end = "2020-12-31"
+  location = "China"
+  date_start = "2019-08"
+  date_end = "2019-12"
   description = """
   Responsibilities include:
   
@@ -34,11 +34,15 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Intern"
-  company = "Join Research Institution of Sun Yat-Sen University and "
+  company = "Joint Research Institution of Sun Yat-Sen University and Carnegie Mellon University"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  location = "China"
+  date_start = "2017-07"
+  date_end = "2017-09"
   description = """Taught electronic engineering and researched semiconductor physics."""
+  Responsibilities include:
+  
+  * Designing software and test equipment for textile defects detection
+  * Deploying deep learning model to Nvidia Jetson Tx2 for real-time detection
 
 +++
