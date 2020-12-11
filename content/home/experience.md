@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "China"
   date_start = "2019-08"
   date_end = "2019-12"
-  description = """
+  description = ""
   Responsibilities include:
   
   * Eye movement analysis
@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   location = "China"
   date_start = "2017-07"
   date_end = "2017-09"
-  description = """
+  description = ""
   Responsibilities include:
   
   * Designing software and test equipment for textile defects detection
