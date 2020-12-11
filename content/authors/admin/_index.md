@@ -71,4 +71,4 @@ I'm currently a research assistant at Sun Yat-sen University. My research intere
 
 Supervised by Prof. Dong Zhang, I got my bachelor degree and master degree at Sun Yat-Sen University in 2018 and 2020 respectively. I interned at SMIIP Lab in Duke Kunshan University during the 2019 and 2020 where I worked for Prof. Ming Li.
 
-# Recently, I graduated from Sun Yat-sen University and selected as Outstanding Graduate for the year 2020.
+Recently, I graduated from Sun Yat-sen University and selected as Outstanding Graduate for the year 2020.
